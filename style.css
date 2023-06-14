@@ -1,0 +1,23 @@
+
+body {
+    background-color: rgb(174, 174, 174);
+    
+}
+
+.retangulo {
+   background-image: url(ada-lovelace.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 500px;
+   height: 575px;
+   display: inline-block;
+
+}
+
+.retangulo2 {
+    display: inline-block;
+    width: 250px;
+    height: 300px;
+    margin-left: 20px;
+    vertical-align: top;
+ }
